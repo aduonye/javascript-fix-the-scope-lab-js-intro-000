@@ -33,4 +33,3 @@ yourAnimal() {
   console.log(animal)
 }
 console.log()
-
